@@ -1,0 +1,11 @@
+
+@media screen and (max-width:768px){
+    .countDown {
+        height: 700px !important;
+    }
+}
+@media screen and (min-width:768px){
+    .countDown {
+        height: 300px !important;
+    }
+}
